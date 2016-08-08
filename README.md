@@ -1,5 +1,6 @@
 # calculator-ws
 Simple calculator web service.
+
 Implements a simple calculator web service that caches the results of its computations, with endpoints similar to the following:
 -/add/{a}/{b}/{c}
 -/subtract/{a}/{b}/{c}
